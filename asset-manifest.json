@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/study-react-cohort25/static/css/main.d1b05096.chunk.css",
+    "main.css": "/study-react-cohort25/static/css/main.d71f6699.chunk.css",
     "main.js": "/study-react-cohort25/static/js/main.4c6b675c.chunk.js",
     "main.js.map": "/study-react-cohort25/static/js/main.4c6b675c.chunk.js.map",
     "runtime-main.js": "/study-react-cohort25/static/js/runtime-main.95ba9357.js",
@@ -8,16 +8,16 @@
     "static/js/2.4588679c.chunk.js": "/study-react-cohort25/static/js/2.4588679c.chunk.js",
     "static/js/2.4588679c.chunk.js.map": "/study-react-cohort25/static/js/2.4588679c.chunk.js.map",
     "index.html": "/study-react-cohort25/index.html",
-    "precache-manifest.896b7cd01811255bef87baedfe50a66d.js": "/study-react-cohort25/precache-manifest.896b7cd01811255bef87baedfe50a66d.js",
+    "precache-manifest.6be309fcb0ea90c578108901dc4efa2d.js": "/study-react-cohort25/precache-manifest.6be309fcb0ea90c578108901dc4efa2d.js",
     "service-worker.js": "/study-react-cohort25/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/study-react-cohort25/static/css/main.d1b05096.chunk.css.map",
+    "static/css/main.d71f6699.chunk.css.map": "/study-react-cohort25/static/css/main.d71f6699.chunk.css.map",
     "static/js/2.4588679c.chunk.js.LICENSE.txt": "/study-react-cohort25/static/js/2.4588679c.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/study-react-cohort25/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.95ba9357.js",
     "static/js/2.4588679c.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
+    "static/css/main.d71f6699.chunk.css",
     "static/js/main.4c6b675c.chunk.js"
   ]
 }
