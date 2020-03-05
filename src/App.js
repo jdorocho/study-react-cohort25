@@ -8,16 +8,13 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hey cohort#25. Let's study React.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <form action="submit">
+          <label htmlFor="userName">Enter your name:</label>
+          <input type="text"/>
+          <button type="submit">Let's Start</button>
+        </form>
       </header>
     </div>
   );
