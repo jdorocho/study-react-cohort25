@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/study-react-cohort25/static/css/main.d1b05096.chunk.css",
-    "main.js": "/study-react-cohort25/static/js/main.3b1be048.chunk.js",
-    "main.js.map": "/study-react-cohort25/static/js/main.3b1be048.chunk.js.map",
+    "main.js": "/study-react-cohort25/static/js/main.4c6b675c.chunk.js",
+    "main.js.map": "/study-react-cohort25/static/js/main.4c6b675c.chunk.js.map",
     "runtime-main.js": "/study-react-cohort25/static/js/runtime-main.95ba9357.js",
     "runtime-main.js.map": "/study-react-cohort25/static/js/runtime-main.95ba9357.js.map",
     "static/js/2.4588679c.chunk.js": "/study-react-cohort25/static/js/2.4588679c.chunk.js",
     "static/js/2.4588679c.chunk.js.map": "/study-react-cohort25/static/js/2.4588679c.chunk.js.map",
     "index.html": "/study-react-cohort25/index.html",
-    "precache-manifest.74ff5805cefe7b98b03a366526866b20.js": "/study-react-cohort25/precache-manifest.74ff5805cefe7b98b03a366526866b20.js",
+    "precache-manifest.896b7cd01811255bef87baedfe50a66d.js": "/study-react-cohort25/precache-manifest.896b7cd01811255bef87baedfe50a66d.js",
     "service-worker.js": "/study-react-cohort25/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/study-react-cohort25/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.4588679c.chunk.js.LICENSE.txt": "/study-react-cohort25/static/js/2.4588679c.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.95ba9357.js",
     "static/js/2.4588679c.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.3b1be048.chunk.js"
+    "static/js/main.4c6b675c.chunk.js"
   ]
 }
